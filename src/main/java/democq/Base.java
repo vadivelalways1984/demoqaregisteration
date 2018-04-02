@@ -18,7 +18,7 @@ public class Base {
 		if(myscenario.getName().equals("Login Scenario")) {
 			System.out.println("do some operation");
 		}
-		System.out.println("before methood");
+		System.out.println("before method");
 	}
 
 	@After
